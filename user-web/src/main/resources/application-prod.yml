@@ -1,0 +1,11 @@
+spring:
+  datasource:
+<<<<<<< HEAD
+    url: jdbc:mysql://127.0.0.1:3307/myshop?useUnicode=true&characterEncoding=utf8&allowMultiQueries=true&serverTimezone=Asia/Shanghai&useSSL=false
+    username: root
+    password: 1332j432##vV#Vsdc
+=======
+    url: jdbc:mysql://172.16.0.20:3307/myshop?useUnicode=true&characterEncoding=utf8&allowMultiQueries=true&serverTimezone=Asia/Shanghai&useSSL=false
+    username: dev-user
+    password: "!2##@@wewdWE$R#"
+>>>>>>> 5b27481 (init)
